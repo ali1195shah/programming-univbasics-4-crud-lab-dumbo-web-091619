@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  new_arr = Array.new
+  new_arr = ["Blue", "Red", "Yellow", "Purple"]
 end
 
 def add_element_to_end_of_array(array, element)
